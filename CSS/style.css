@@ -1,0 +1,44 @@
+
+#logo{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+nav ul li {
+    display: inline-block;
+    float: right;
+    padding: 1px;
+    
+}
+nav{
+    margin-left: 20px;
+}
+#para2{
+    font-size: 10px;
+    margin-left: 0px;
+
+}
+#para1{
+    font-family: 'Yellowtail', cursive;;
+    font-size: 27px;
+   
+}
+
+hr{
+    color: #F5F5F5;
+    height: 10px;
+    width: 95%;
+    background:url('/images/hr-img.png') ;
+    display: block;
+   
+
+    margin-left: 2px;
+    margin-right: 2px;
+    border: none;
+    margin-top: 50px;
+}
+div{
+        max-width: 380px;
+        display: inline;
+        margin-right: 20px; 
+}
