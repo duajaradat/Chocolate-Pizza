@@ -29,7 +29,7 @@ nav ul{
 
  hr{
     height: 10px;
-    background-image:url('/images/hr-img.png') ;
+    background-image:url('../images/hr-img.png') ;
     width: 60%;
     display: block; 
     margin-left: 300px;
@@ -97,7 +97,7 @@ margin-right: 1px;
     line-height: 1.5;
 }
 #s1{
-    background-image: url('Chocolate-Pizza/images/list-bg.png');
+    background-image: url('../images/list-bg.png');
     background-size: 75%;
     background-repeat: no-repeat;
     font-family: 'Patrick Hand', cursive;
@@ -165,7 +165,7 @@ margin-right: 1px;
    margin-right: 430px;   
 } 
 #hrfoot{
-    background:url('Chocolate-Pizza/images/small-logo.png') no-repeat top center;
+    background:url('../images/small-logo.png') no-repeat top center;
     width: 60%;
     border: none;
     display: block; 
